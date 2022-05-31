@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Round_Robin
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=METODO\ PRINCIPAL\ EN\ EL\ CUAL\ SE\ CALCULA\ EL\ TIEMPO\ DE\ ESPERA\ PROMEDIO\ *
+comment2.params=quantum\ rafagas\ cantidad_procesos
+comment2.target=void\ gantt(int,\ int[],\ int)
+comment2.text=METODO\ QUE\ IMPRIME\ EL\ DIAGRAMA\ DE\ GANTT\ *
+comment3.params=rafagas
+comment3.target=int\ tiempos(int[])
+comment3.text=METODO\ QUE\ SUMA\ LAS\ RAFAGAS\ DE\ LOS\ PROCESOS\ *
+numComments=4
